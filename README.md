@@ -1,8 +1,20 @@
-# Jhansi Reddy Mukkala - DevOps Portfolio 🚀
+# 👋 Hi, I'm Jhansi Lakshmi Mukkala
 
-Hi, I'm Jhansi - Aspiring DevOps Engineer | AWS | CI/CD | Terraform | Docker | Kubernetes
+## AWS DevOps Engineer | Terraform | Docker | Kubernetes | Jenkins | CI/CD
 
-## 📁 Projects
+Welcome to my AWS DevOps Portfolio!
+
+### 🚀 About Me
+Passionate AWS DevOps Engineer focused on cloud automation, infrastructure as code, and CI/CD pipelines.
+
+### 🛠️ Skills
+- **Cloud:** AWS - EC2, S3, IAM, VPC, CloudWatch
+- **IaC:** Terraform, CloudFormation
+- **Containers:** Docker, Kubernetes
+- **CI/CD:** Jenkins, GitHub Actions
+- **OS & Tools:** Linux, Git, YAML, Bash
+
+### 📁 Projects in the Portfolio
 
 ### 1. AWS CI/CD Pipeline with Jenkins
 - Automated Build, Test, Deploy using Jenkins
@@ -19,9 +31,8 @@ Hi, I'm Jhansi - Aspiring DevOps Engineer | AWS | CI/CD | Terraform | Docker | K
 - Deployed with Kubernetes Deployment - 2 Replicas for High Availability
 - Files: `docker-k8s-app/Dockerfile`, `deployment.yaml`
 
-## 🛠️ Skills
-AWS | Jenkins | Terraform | Docker | Kubernetes | GitHub | Linux
+### 📫 Connect With Me
+- **GitHub:** https://github.com/JhansiM1523
+- **LinkedIn:** Add your LinkedIn link here
 
-## 📞 Contact
-GitHub: github.com/JhansiM1523
-Location: London, UK
+⭐ Star this repo if you find it useful!
