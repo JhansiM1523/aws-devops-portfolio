@@ -1,0 +1,19 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: jhansi-app
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: jhansi-app
+  template:
+    metadata:
+      labels:
+        app: jhansi-app
+    spec:
+      containers:
+      - name: jhansi-app
+        image: nginx:alpine
+        ports:
+        - containerPort: 80
